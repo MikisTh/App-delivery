@@ -1,0 +1,7 @@
+{
+  "produtos": [
+    { "id": 1, "name": "Hambúrguer", "price": 18.9, "img": "/img/hamb.png" },
+    { "id": 2, "name": "X-Salada", "price": 20.5, "img": "/img/salada.png" },
+    { "id": 3, "name": "Batata Frita", "price": 12.0, "img": "/img/batata.png" }
+  ]
+}
